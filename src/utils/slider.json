@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Serenity Haven Villa",
+    "price": "4.5Cr",
+    "detail": "Kolkata Riverside Terrace, Howrah, Kolkata, West Bengal",
+    "image": "./villa1.jpg"
+  },
+  {
+    "name": "Azure Vista Mansion",
+    "price": "5Cr",
+    "detail": "Jaipur Royal Orchard Drive, Mansarovar, Jaipur, Rajasthan",
+    "image": "./villa2.jpg"
+  },
+  {
+    "name": "Sapphire Dream Villa",
+    "price": "3.5Cr",
+    "detail": "Mumbai Blossom Lane, Andheri West, Mumbai, Maharashtra",
+    "image": "./villa3.jpg"
+  },
+  {
+    "name": "Mystic Moonlight Manor",
+    "price": "4.2Cr",
+    "detail": "Delhi Serenity Street, Dwarka Sector 22, New Delhi, Delhi",
+    "image": "./villa4.jpg"
+  },
+  {
+    "name": "Majestic Mirage Estate",
+    "price": "6Cr",
+    "detail": "Bangalore Green Haven Road, Whitefield, Bangalore, Karnataka",
+    "image": "./villa5.jpg"
+  },
+  {
+    "name": "Solstice Sanctuary",
+    "price": "4.8Cr",
+    "detail": "Chennai Harmony Crescent, Adyar, Chennai, Tamil Nadu",
+    "image": "./villa6.jpg"
+  }
+]
